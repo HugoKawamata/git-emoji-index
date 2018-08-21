@@ -8,3 +8,4 @@ A list of emoji I use in commit messages and their meanings
 - 🐛 Bug fix
 - 🆕 Beginnings of a new feature
 - 🗑 Deleted stuff
+- 📚 Comments/documentation
